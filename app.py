@@ -61,7 +61,7 @@ def log():
 
 🕒 <b>Time:</b> {india_time}
 
-@senthil_online
+@podavenna
 """
     send_telegram(msg)
     return {'status': 'ok'}
